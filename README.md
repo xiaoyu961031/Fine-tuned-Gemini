@@ -2,7 +2,7 @@
 ![image](https://github.com/xiaoyu961031/MOF-LLM/blob/main/toc.jpg)
 ## Prerequsite:
 - google-generativeai
-Please noted that: the default **temperature** is set to 0.5, which means a same prompt may not always result in a identical response.
+- Please noted that: the default **temperature** is set to 0.5, which means a same prompt may not always result in a identical response.
 
 ## Play with Gemini-demo with fine-tuned models:
 
