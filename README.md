@@ -9,6 +9,7 @@
  -  SELFIES:
  -  SMILES:
  -  SMILES-learning-curves
+   
     - 0.2:
     - 0.4:
     - 0.6:
@@ -18,6 +19,7 @@
  -  SELFIES:
  -  SMILES:
  -  SMILES-learning-curves:
+   
     - 0.2:
     - 0.4:
     - 0.6:
