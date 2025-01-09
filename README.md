@@ -4,7 +4,7 @@
 - google-generativeai
 
 ## Play with Gemini-demo with fine-tuned models:
-- **Binary classification**
+**Binary classification**
  -  SELFIES:
  -  SMILES:
  -  SMILES-learning-curves
@@ -12,8 +12,8 @@
     - 0.4:
     - 0.6:
     - 0.8:
-      
-- **Quaternary classification**
+
+**Quaternary classification**
  -  SELFIES:
  -  SMILES:
  -  SMILES-learning-curves:
