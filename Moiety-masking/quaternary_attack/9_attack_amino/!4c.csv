@@ -1,0 +1,23 @@
+coreid,mofid-v1,Grouth_truth,Predicted,Aromatic Nitrogen Ring,Alkyne,Halogen,Alkene,Ether,Imine,Enamine,Ketone_new,Amino,metal
+2017[Zn][sql]2[ASR]1,O=C1Nc2cc(ccc2-c2c(N1)cc(cc2)C(=O)[O-])C(=O)[O-].[Zn][Zn],1,1,0,0,0,0,0,0,2,0,2,Zn
+2013[Zn][rtl]3[ASR]3,[O-]C(=O)c1ccc2c3c1c(ccc3C(=O)N(C2=O)c1ccncc1)C(=O)[O-].[Zn][Zn],1,1,1,0,0,0,0,0,1,0,2,Zn
+2009[Cd][bcu]3[ASR]1,O=C1N(c2ccncc2)C(=O)c2c1cc(cc2)C(=O)[O-].[Cd],1,1,1,0,0,0,0,0,1,0,2,Cd
+2000[Nd][pcu]3[ASR]1,CC(=O)NCCCCCCNC(=O)C.[Nd],1,1,0,0,0,0,0,0,0,0,2,Nd
+2013[Zn][rtl]3[ASR]5,[O-]C(=O)c1ccc2c3c1c(ccc3C(=O)N(C2=O)c1ccncc1)C(=O)[O-].[Zn][Zn],1,1,1,0,0,0,0,0,1,0,2,Zn
+2014[Zn][sql]2[ASR]1,NNC(=O)NN=C(c1ccncc1)C.[Zn],1,1,1,0,0,0,0,0,0,0,2,Zn
+2013[Ni][dia]3[ASR]2,O=C1[CH]C(=O)NC(=S)N1.[Ni],1,1,0,0,0,0,0,0,0,0,2,Ni
+2013[Zn][rtl]3[ASR]1,[O-]C(=O)c1ccc2c3c1c(ccc3C(=O)N(C2=O)c1ccncc1)C(=O)[O-].[Zn][Zn],1,1,1,0,0,0,0,0,1,0,2,Zn
+2013[Zn][rtl]3[ASR]2,[O-]C(=O)c1ccc2c3c1c(ccc3C(=O)N(C2=O)c1ccncc1)C(=O)[O-].[Zn][Zn],1,1,1,0,0,0,0,0,1,0,2,Zn
+2018[Cd][sql]2[ASR]4,O=C1N(Cc2ccncc2)C(=O)c2c3c1ccc1c3c(cc2)C(=O)N(C1=O)Cc1ccncc1.[Cd],1,1,2,0,0,0,0,0,0,0,4,Cd
+2017[In][nan]2[ASR]1,O=C(c1ccc(cc1)C(=O)NCC(=O)[O-])NCC(=O)[O-].[In].[OH],1,1,0,0,0,0,0,0,0,0,2,In
+0000[Eu][tsi]3[ASR]1,O=C1N[N]C(=O)C=C1.[Eu],1,1,0,0,0,1,0,0,0,0,2,Eu
+2008[Cd][pyr]3[ASR]1,O=C(c1cc(cc(c1)C(=O)Nc1ccncc1)C(=O)Nc1ccncc1)Nc1ccncc1.[Cd],1,1,3,0,0,0,0,0,3,0,3,Cd
+2013[Cu][pto]3[ASR]2,O=C(c1cc(cc(c1)C(=O)Nc1ccc(cc1)C(=O)[O-])C(=O)Nc1ccc(cc1)C(=O)[O-])Nc1ccc(cc1)C(=O)[O-].[Cu][Cu],1,1,0,0,0,0,0,0,3,0,3,Cu
+2014[Cu][nan]3[ASR]12,O=C(N1CCCC1C(=O)[O-])c1cc(cc(c1)C(=O)[O-])C(=O)[O-].[Cu][Cu],1,1,0,0,0,0,0,0,0,0,1,Cu
+2016[Zn][nts]3[ASR]1,O=C(Nc1cc(cc(c1)C(=O)[O-])C(=O)[O-])Nc1cc(NC(=O)Nc2cc(cc(c2)C(=O)[O-])C(=O)[O-])cc(c1)NC(=O)Nc1cc(cc(c1)C(=O)[O-])C(=O)[O-].[Zn][Zn],1,1,0,0,0,0,0,0,6,0,6,Zn
+2018[Cu][nan]3[ASR]2,O=C(c1ccncc1)Nc1cc(cc(c1)C(=O)[O-])C(=O)[O-].[Cu],1,1,1,0,0,0,0,0,1,0,1,Cu
+2018[Cu][nan]3[ASR]5,O=C(c1ccncc1)Nc1cc(cc(c1)C(=O)[O-])C(=O)[O-].[Cu],1,1,1,0,0,0,0,0,1,0,1,Cu
+2018[Cu][nan]3[ASR]7,O=C(c1ccncc1)Nc1cc(cc(c1)C(=O)[O-])C(=O)[O-].[Cu],1,1,1,0,0,0,0,0,1,0,1,Cu
+2020[Cd][sod]3[ASR]1,CC(=N[N]C(=O)c1ccncc1)C(=N[N]C(=O)c1ccncc1)C.[Cd],1,1,2,0,0,0,0,0,0,0,2,Cd
+2021[Cd][flu]3[ASR]1,O=C(c1cc(cc(c1)C(=O)[O-])C(=O)[O-])Nc1cc(cc(c1)C(=O)[O-])C(=O)[O-].[Cd],1,1,0,0,0,0,0,0,1,0,1,Cd
+2022[Zn][sra]3[ASR]1,O=C1N[N]C(=O)c2c1cc1N=C[N]c1c2.[Zn],1,1,0,0,0,0,0,0,0,0,2,Zn

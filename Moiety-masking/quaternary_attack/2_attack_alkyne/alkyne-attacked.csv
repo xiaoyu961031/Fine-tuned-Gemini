@@ -1,0 +1,12 @@
+coreid,mofid-v1,Grouth_truth,Predicted,Aromatic Nitrogen Ring,Alkyne,Halogen,Alkene,Ether,Imine,Enamine,Ketone_new,Amino,metal
+2009[Zn][nts]3[ASR]1,[O-]C(=O)c1cc(<missing>c2cc(C#Cc3cc(cc(c3)C(=O)[O-])C(=O)[O-])cc(c2)C#Cc2cc(cc(c2)C(=O)[O-])C(=O)[O-])cc(c1)C(=O)[O-].[Zn][Zn],1,1,0,3,0,0,0,0,0,0,0,Zn
+2023[Sc][bpq]3[ASR]2,[O-]C(=O)c1ccc(cc1)<missing>c1ccc(cc1)C(=O)[O-].[OH].[Sc],1,1,0,1,0,0,0,0,0,0,0,Sc
+2020[Cu][nan]2[ASR]2,I[Cu]([Cu][Cu][Cu](I)I)I.[Cu][Cu](I)I.c1ccc(cn1)<missing>c1cc(C#Cc2cccnc2)cc(c1)C#Cc1cccnc1,1,1,3,3,6,0,0,0,0,0,0,Cu
+2009[Cu][nbo]3[ASR]3,[Cu][Cu].[O-]C(=O)c1cc(<missing>c2cc(cc(c2)C(=O)[O-])C(=O)[O-])cc(c1)C(=O)[O-],1,1,0,1,0,0,0,0,0,0,0,Cu
+2011[Cu][eea]3[ASR]1,[Cu][Cu].[O-]C(=O)c1cc(<missing>c2cccnc2)cc(c1)C(=O)[O-],1,1,1,1,0,0,0,0,0,0,0,Cu
+2011[Cu][nts]3[ASR]1,[Cu][Cu].[O-]C(=O)c1cc(<missing>c2c(N)c(C#Cc3cc(cc(c3)C(=O)[O-])C(=O)[O-])c(c(c2N)C#Cc2cc(cc(c2)C(=O)[O-])C(=O)[O-])N)cc(c1)C(=O)[O-],1,1,0,3,0,0,0,0,3,0,0,Cu
+2020[Cu][nan]2[ASR]1,I[Cu]([Cu][Cu][Cu](I)I)I.[Cu][Cu](I)I.c1ccc(cn1)<missing>c1cc(C#Cc2cccnc2)cc(c1)C#Cc1cccnc1,1,1,3,3,6,0,0,0,0,0,0,Cu
+2020[Cu][nan]3[ASR]9,[Cu].n1ccc(cc1)<missing>c1ccc(cc1)C12CC3(CC(C2)(CC(C1)(C3)c1ccc(cc1)C#Cc1ccncc1)c1ccc(cc1)C#Cc1ccncc1)c1ccc(cc1)C#Cc1ccncc1,1,1,4,4,0,0,0,0,0,0,0,Cu
+2020[Cu][sql]2[ASR]7,[Cu].n1ccc(cc1)<missing>c1ccncc1,1,1,2,1,0,0,0,0,0,0,0,Cu
+2022[Mn][nan]2[ASR]2,[Mn].[O-]C(=O)c1cc(<missing>c2c3ccccc3c(c3c2cccc3)C#Cc2cc(cc(c2)C(=O)O)C(=O)[O-])cc(c1)C(=O)[O-],2,2,0,2,0,0,0,0,0,0,0,Mn
+2022[Sc][bpq]3[ASR]3,[O-]C(=O)c1ccc(cc1)<missing>c1ccc(cc1)C(=O)[O-].[OH].[Sc],1,1,0,1,0,0,0,0,0,0,0,Sc
