@@ -1,4 +1,4 @@
-# Fine-tuned Gemini for hydrophobicity predictions in Metal-organic frameworks
+# Fine-tuned Gemini for hydrophobicity predictions in metal-organic frameworks
 ![image](https://github.com/xiaoyu961031/MOF-LLM/blob/main/toc.jpg)
 ## Prerequsite:
 - google-generativeai
