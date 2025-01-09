@@ -8,7 +8,6 @@
 **Binary classification**
  -  SELFIES: "tunedModels/selfies2class-g940h04i1llj"
  -  SMILES: "tunedModels/smiles2class-8vfa55zxzcq0"
- -  
  -  SMILES-learning-curves
    
     - 0.2: "tunedModels/lc202class-snm20iaybbky"
@@ -19,7 +18,6 @@
 **Quaternary classification**
  -  SELFIES: "tunedModels/selfies4class-572d54eewzgo"
  -  SMILES: "tunedModels/smiles4class-rpcpp9wje8vi"
- -  
  -  SMILES-learning-curves:
    
     - 0.2: "tunedModels/lc204class-oh1qkmpko1lu"
