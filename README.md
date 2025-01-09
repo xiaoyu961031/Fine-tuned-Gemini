@@ -4,6 +4,7 @@
 - google-generativeai
 
 ## Play with Gemini-demo with fine-tuned models:
+
 **Binary classification**
  -  SELFIES:
  -  SMILES:
@@ -21,7 +22,6 @@
     - 0.4:
     - 0.6:
     - 0.8:
-
 
 ## References:
 Our paper is under publication process:
