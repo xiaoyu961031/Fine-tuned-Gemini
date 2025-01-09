@@ -6,8 +6,8 @@
 ## Play with Gemini-demo with fine-tuned models:
 
 **Binary classification**
- -  SELFIES: 
- -  SMILES:
+ -  SELFIES: tunedModels/selfies2class-g940h04i1llj
+ -  SMILES: tunedModels/smiles2class-8vfa55zxzcq0
  -  SMILES-learning-curves
    
     - 0.2:
