@@ -1,13 +1,28 @@
 # Fine-tuned Gemini-1.5-flash models for hydrophobicity predictions in Metal-organic frameworks
 
-## Prerequsite
+## Prerequsite:
 - google-generativeai
 
-## Fine-tuned models
+## Play with Gemini-demo with fine-tuned models:
+- **Binary classification**
+ -  SELFIES:
+ -  SMILES:
+ -  SMILES-learning-curves
+    - 0.2:
+    - 0.4:
+    - 0.6:
+    - 0.8:
+      
+- **Quaternary classification**
+ -  SELFIES:
+ -  SMILES:
+ -  SMILES-learning-curves:
+    - 0.2:
+    - 0.4:
+    - 0.6:
+    - 0.8:
 
-**B**. 0_layer/
-- 
 
-
-## References
-Our paper is under publication process: Xiaoyu Wu and Jianwen Jiang. Can Large Language Models Predict Hydrophobicity in Metal-organic Frameworks?
+## References:
+Our paper is under publication process:
+Xiaoyu Wu and Jianwen Jiang. Can Large Language Models Predict Hydrophobicity in Metal-organic Frameworks?
