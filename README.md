@@ -6,7 +6,7 @@
 ## Play with Gemini-demo with fine-tuned models:
 
 **Binary classification**
- -  SELFIES:
+ -  SELFIES: 
  -  SMILES:
  -  SMILES-learning-curves
    
