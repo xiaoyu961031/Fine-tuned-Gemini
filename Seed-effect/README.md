@@ -1,4 +1,4 @@
-## Evaluation of seed effect on the model predictions:
+## Evaluations of seed effect on the model predictions:
 
 ## fine-tuned models:
 
