@@ -1,4 +1,4 @@
-coreid,mofid-v1,mofid-v2,binary,quaternary,year
+coreid,mofid-v1,mofid-v2,quaternary,binary,year
 2017[Cu][nan]3[ASR]8,O[Cu]O.[Cu].[Cu][Cu].[O-]C(=O)c1cncc(c1)C(=O)[O-],[C2Cu1O4_Type-1].[C4Cu2O8_Type-1].[Cu1H2O2_Type-1].[O-1][C][=Branch1][C][=O][C][=C][N][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][=Branch1][C][=O][O-1],1,0,2017
 2008[Cu][tbo]3[ASR]2,[Cu][Cu].[O-]C(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-],[C4Cu2O8_Type-1].[O-1][C][=Branch1][C][=O][C][=C][C][=Branch1][=N][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][=Branch1][C][=O][O-1][C][=Branch1][C][=O][O-1],1,0,2008
 2008[In][dia]3[ASR]1,[In].[O-]C(=O)c1ccc(s1)C(=O)[O-],[C4In1O8_Type-1].[O-1][C][=Branch1][C][=O][C][=C][C][=C][Branch1][Ring2][S][Ring1][Branch1][C][=Branch1][C][=O][O-1],1,0,2008
