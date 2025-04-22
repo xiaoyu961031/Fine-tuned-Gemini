@@ -28,5 +28,5 @@
 
 
 ## References:
-Our paper is accepted in the Journal of Material Chemistry A:
+Our paper has been accepted in the Journal of Material Chemistry A:
 Xiaoyu Wu and Jianwen Jiang. Can Large Language Models Predict Hydrophobicity in Metal-organic Frameworks? DOI: 10.1039/D5TA01139F
